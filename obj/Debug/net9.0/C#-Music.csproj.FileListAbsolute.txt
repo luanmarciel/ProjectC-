@@ -1,0 +1,14 @@
+C:\Users\luanm\Desktop\C#-Music\bin\Debug\net9.0\C#-Music.exe
+C:\Users\luanm\Desktop\C#-Music\bin\Debug\net9.0\C#-Music.deps.json
+C:\Users\luanm\Desktop\C#-Music\bin\Debug\net9.0\C#-Music.runtimeconfig.json
+C:\Users\luanm\Desktop\C#-Music\bin\Debug\net9.0\C#-Music.dll
+C:\Users\luanm\Desktop\C#-Music\bin\Debug\net9.0\C#-Music.pdb
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.AssemblyInfoInputs.cache
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.AssemblyInfo.cs
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.dll
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\refint\C#-Music.dll
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.pdb
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.genruntimeconfig.cache
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\ref\C#-Music.dll
