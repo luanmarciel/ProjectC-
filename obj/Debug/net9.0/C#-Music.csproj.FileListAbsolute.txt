@@ -12,3 +12,4 @@ C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\refint\C#-Music.dll
 C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.pdb
 C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.genruntimeconfig.cache
 C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\ref\C#-Music.dll
+C:\Users\luanm\Desktop\C#-Music\obj\Debug\net9.0\C#-Music.sourcelink.json
